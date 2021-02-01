@@ -2,7 +2,9 @@
 
 * ING. JUAN PABLO ZALDUMBIDE 👨🏻‍🏫
 
-#  LOGIN CON GMAIL USANDO IONIC & FIREBASE
+#  CALCULADORA UTILIZANDO ANDROID STUDIO
+
+![myimage-alt-tag](https://i.ytimg.com/vi/5Vxn1rYL7bg/hqdefault.jpg)
 
 INTEGRANTES DE GRUPO  👨‍💻👩‍💻 
 - Amoguimba Jessica
