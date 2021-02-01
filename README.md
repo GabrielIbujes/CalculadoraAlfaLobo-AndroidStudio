@@ -23,12 +23,11 @@ Este README contiene un explicativo del la aplicación de una calculadora con 7 
 |![myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_calculadora/blob/master/Calculadora/DispsitivoVirtual1.png) |![myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_calculadora/blob/master/Calculadora/DispositivoVirtual2.png) |![myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_calculadora/blob/master/Calculadora/CraeNuevoProyecto.png)  |![myimage-alt-tag]|
 
 ## Creación de las funciones
-
 Una vez arrastrado todoslos botones que deseamos para la calculadora procedemos a dar funcionalidad a cada uno de ellos.
-| **Arrastrar botones**  | **Dar colores **  | **Botones completos** |
-| ------------- | ------------- | ------------- |
-|![myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_calculadora/blob/master/Calculadora/ArrastramosComponentes.png) |![myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_calculadora/blob/master/Calculadora/CambiamosColores.png)  |!
-[myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_calculadora/blob/master/Calculadora/TerminamosBotonesCalculadora.png)  |![myimage-alt-tag]|
+
+| **Arrastrar botones** | **Dar colores**  | **Botones completos**  |
+| ------------- | ------------- | ------------- | 
+|![myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_calculadora/blob/master/Calculadora/ArrastramosComponentes.png) |![myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_calculadora/blob/master/Calculadora/CambiamosColores.png) |![myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_calculadora/blob/master/Calculadora/TerminamosBotonesCalculadora.png)  |![myimage-alt-tag]|
 
 ## Funciones usadas
 
@@ -48,8 +47,7 @@ Damoss funcionalidad a los botones AC y DEL
 
 | **Ejecución** | **Función Básica**  | **Función Trigonométrica**  |
 | ------------- | ------------- | ------------- | 
-|![myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_calculadora/blob/master/Calculadora/Ejecucion.png) |!
-[myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_calculadora/blob/master/Calculadora/Suma.png) |![myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_calculadora/blob/master/Calculadora/Sen90.jpeg)  |![myimage-alt-tag]|
+|![myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_calculadora/blob/master/Calculadora/Ejecucion.png) |![myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_calculadora/blob/master/Calculadora/Suma.png) |![myimage-alt-tag](https://github.com/JESSICAAMOGUIMBA/Imagenes_calculadora/blob/master/Calculadora/Sen90.jpeg)  |![myimage-alt-tag]|
 
 ### Referencias ###
     1. https://www.youtube.com/watch?v=jlYvReILqDQ
